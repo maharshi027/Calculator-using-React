@@ -1,0 +1,10 @@
+.calculator {
+    width: 200px;
+    border: 1px solid #777;
+    border-radius: 5px;
+    margin:100px auto;
+    background:#563244;
+}
+.bg-color{
+   background-color: aquamarine;
+}
